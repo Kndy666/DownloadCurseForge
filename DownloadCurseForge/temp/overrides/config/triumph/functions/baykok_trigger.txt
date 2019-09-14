@@ -1,3 +1,0 @@
-gamestage add @p baykok
-summon minecraft:fireworks_rocket ~ ~ ~
-say You have learned how to craft arrows!
