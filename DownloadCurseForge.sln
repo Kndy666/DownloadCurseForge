@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DownloadCurseForge", "DownloadCurseForge\DownloadCurseForge.pyproj", "{68E0BF58-B9F7-4896-805C-5C8D7CA617D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68E0BF58-B9F7-4896-805C-5C8D7CA617D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E0BF58-B9F7-4896-805C-5C8D7CA617D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E0C3F80-78BB-48C5-B985-416EF7043251}
+	EndGlobalSection
+EndGlobal
